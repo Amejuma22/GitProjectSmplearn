@@ -1,3 +1,6 @@
 [feature2 9af01c0] this is the first checkin to feature2 branch for final project
  1 file changed, 1 insertion(+)
  create mode 100644 feature2
+[feature2 f193d13] this is the first checkin to feature2 branch for final project
+ 1 file changed, 3 insertions(+)
+ create mode 100644 feature2.txt
